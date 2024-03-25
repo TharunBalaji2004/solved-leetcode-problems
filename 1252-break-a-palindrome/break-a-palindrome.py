@@ -9,9 +9,7 @@ class Solution:
                 L[i] = "a"
                 break
 
-        print(L)
         if (L == L[::-1]):
             L[-1] = "b"
-            return "".join(L)
 
         return "".join(L)
