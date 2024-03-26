@@ -19,7 +19,6 @@ class Solution {
             for (int j=0;j<cols;j++) {
                 if (!visited[i][j] && grid[i][j] == '1') {
                     islands++;
-                    System.out.println(i+","+j);
                     dfs(i, j, visited, grid);
                 }
             }
