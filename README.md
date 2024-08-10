@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
