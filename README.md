@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 ## Stack
