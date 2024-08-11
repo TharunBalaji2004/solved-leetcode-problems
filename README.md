@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
