@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1508-longest-happy-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
@@ -99,4 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
