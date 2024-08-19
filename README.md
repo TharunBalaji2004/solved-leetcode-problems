@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
 ## Divide and Conquer
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
