@@ -1,64 +1,79 @@
 class Solution {
-    public boolean isSafe(int col,int row, int n,char[][] board){
-        int duprow = row;
-        int dupcol  = col;
+    private boolean queenSafe(int row, int col, int n, char[][] board) {
+        int copyRow = row, copyCol = col;
 
-        while(row>=0 && col>=0){
-            if(board[row][col] ==  'Q') return false;
+        // Case 1: Left upward diagonal
+        while (row >= 0 && col >= 0) {
+            if (board[row][col] == 'Q') return false;
             row--;
             col--;
         }
 
-        row = duprow;
-        col = dupcol;
+        row = copyRow;
+        col = copyCol;
 
-        while(col>=0){
-            if(board[row][col] == 'Q') return false;
+        // Case 2: Left Horizontal
+        while (col >= 0) {
+            if (board[row][col] == 'Q') return false;
             col--;
         }
 
-        col = dupcol;
+        col = copyCol;
 
-        while(row<n && col>=0){
-            if(board[row][col] == 'Q') return false;
+        // Case 3: Left Downward diagonal
+        while (row < n && col >= 0) {
+            if (board[row][col] == 'Q') return false;
             row++;
             col--;
         }
 
         return true;
     }
-    public List<String> construct(char[][] board){
-        List<String> rowadd = new ArrayList<>();
-        for(int i =0;i<board.length;i++){
+
+    private List<String> convert(char[][] board) {
+        List<String> res = new ArrayList<>();
+        
+        for (int i=0;i<board.length;i++) {
             String row = new String(board[i]);
-            rowadd.add(row);
+            res.add(row);
         }
-        return rowadd;
+
+        return res;
     }
-    public void solve(List<List<String>> ans,char[][] board,int n ,int col){
-        if(col == n){
-            ans.add(construct(board));
+
+    private void helper(char[][] board, List<List<String>> ans, int n, int col) {
+        // Base case
+        if (col == n) {
+            List<String> solution = convert(board);
+            ans.add(solution);
             return;
         }
 
-        for(int row = 0;row<n;row++){
-            if(isSafe(col,row,n,board)){
+        // Recursive case
+        for (int row=0;row<n;row++) {
+            // Queen safe function
+            if (queenSafe(row, col, n, board)) {
                 board[row][col] = 'Q';
-                solve(ans,board,n,col+1);
+                helper(board, ans, n, col+1);
                 board[row][col] = '.';
             }
         }
-
     }
+
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
+
+        // Create chess board
         char[][] board = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+
+        for (int i=0;i<n;i++) {
+            for (int j=0;j<n;j++) {
                 board[i][j] = '.';
             }
         }
-        solve(ans,board,n,0);
+
+        helper(board, ans, n, 0);
+
         return ans;
     }
 }
