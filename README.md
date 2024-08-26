@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
