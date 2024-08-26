@@ -1,25 +1,29 @@
 class Solution {
     public long countSubarrays(int[] nums, int minK, int maxK) {
-        Queue<Integer> q = new LinkedList<>();
-        int minElementIndex = -1;
-        int maxElementIndex = -1;
-        Long res= 0L;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] >= minK && nums[i] <= maxK){
-                q.add(nums[i]);
-                if(nums[i] == minK) minElementIndex = q.size();
-                if(nums[i] == maxK) maxElementIndex = q.size();
-                if(minElementIndex != -1 && maxElementIndex!= -1){
-                    res += Long.valueOf(Math.min(minElementIndex,maxElementIndex));
-                } 
+        long res = 0;
+        int minPos = -1, maxPos = -1;
+        Queue<Integer> queue = new LinkedList<>();
+
+        // Traverse the elements
+        for (int num : nums) {
+            // num falls in the range
+            if (num >= minK && num <= maxK) {
                 
-            }
-            else{
-                q.clear();
-                minElementIndex = -1;
-                maxElementIndex = -1;
+                queue.add(num);
+                if (num == minK) minPos = queue.size();
+                if (num == maxK) maxPos = queue.size();
+
+                if (minPos != -1 && maxPos != -1) {
+                    res += (long) Math.min(minPos, maxPos);
+                }
+
+            } else {
+                queue.clear();
+                minPos = -1;
+                maxPos = -1;
             }
         }
+
         return res;
     }
 }
