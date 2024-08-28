@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1293-three-consecutive-odds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
