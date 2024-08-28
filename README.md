@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1293-three-consecutive-odds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -141,15 +143,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
