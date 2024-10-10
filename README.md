@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0050-powx-n) |
+| [0227-basic-calculator-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [1642-water-bottles](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2645-pass-the-pillow) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
+| [0227-basic-calculator-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1508-longest-happy-prefix) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
