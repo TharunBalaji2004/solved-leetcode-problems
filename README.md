@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Quickselect
 |  |
 | ------- |
