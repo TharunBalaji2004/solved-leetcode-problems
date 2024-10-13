@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
