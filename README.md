@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1293-three-consecutive-odds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
