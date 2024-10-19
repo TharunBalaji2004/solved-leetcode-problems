@@ -10,36 +10,27 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        // Edge case
-        if (k == 0 || head == null || head.next == null) return head;
+        if (head == null || head.next == null || k == 0) return head;
 
-        ListNode temp = head;
+        int size = 1;
+        ListNode curr = head;
 
-        // STEP 1: Length Calc
-        int length = 1;
-        while (temp.next != null) {
-            temp = temp.next;
-            length++;
-        } 
+        while(curr.next != null) {
+            curr = curr.next;
+            size++;
+        }
+        curr.next = head;
 
-        // STEP 2: Form cyclic LL
-        temp.next = head;
+        k = k % size;
+        int steps = size - k;
 
-        // STEP 3: Update k
-        k = k % length;
-        int count = length - k;
-
-        // STEP 4: Reach before of newHead node
-        ListNode newHead = null;
-        while (count > 0) {
-            temp = temp.next;
-            count--;
+        while (steps-- > 0) {
+            curr = curr.next;
         }
 
-        // STEP 5: Update the newHead
-        newHead = temp.next;
-        temp.next = null;
+        head = curr.next;
+        curr.next = null;
 
-        return newHead;
+        return head;
     }
 }
