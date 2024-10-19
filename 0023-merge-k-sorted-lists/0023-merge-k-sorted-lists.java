@@ -10,32 +10,40 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists.length == 0) return null;
-        return helper(lists, 0, lists.length-1);
-    }
+        if (lists == null || lists.length == 0) return null;
 
-    private ListNode helper(ListNode[] lists, int start, int end) {
-        // Base case
-        if (start == end) return lists[start];
+        int interval = 1;
 
-        int mid = start + (end - start)/2;
-        ListNode leftList = helper(lists, start, mid);
-        ListNode rightList = helper(lists, mid+1, end);
+        while (interval < lists.length) {
+            for (int i=0;i+interval < lists.length;i=i+2*interval) {
+                lists[i] = mergeTwoLists(lists[i], lists[i+interval]);
+            }
 
-        return mergeTwoLists(leftList, rightList);
+            interval = 2 * interval;
+        }
+
+        return lists[0];
     }
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        // Edge cases
-        if (list1 == null) return list2;
-        if (list2 == null) return list1;
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
 
-        if (list1.val < list2.val) {
-            list1.next = mergeTwoLists(list1.next, list2);
-            return list1;
-        } else {
-            list2.next = mergeTwoLists(list1, list2.next);
-            return list2;
+        while (list1 != null && list2 != null) {
+            if (list1.val < list2.val) {
+                curr.next = list1;
+                list1 = list1.next;
+            } else {
+                curr.next = list2;
+                list2 = list2.next;
+            }
+
+            curr = curr.next;
         }
+
+        if (list1 == null) curr.next = list2;
+        if (list2 == null) curr.next = list1;
+
+        return dummy.next;
     }
 }
