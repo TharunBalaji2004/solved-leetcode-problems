@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1293-three-consecutive-odds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1293-three-consecutive-odds) |
+| [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1803-average-waiting-time) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0931-maximum-frequency-stack) |
+| [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 ## Ordered Set
 |  |
 | ------- |
@@ -224,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
