@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0547-number-of-provinces](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0547-number-of-provinces) |
+| [1484-linked-list-in-binary-tree](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,8 +261,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
