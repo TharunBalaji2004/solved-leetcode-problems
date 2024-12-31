@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0206-reverse-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0547-number-of-provinces](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -252,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
