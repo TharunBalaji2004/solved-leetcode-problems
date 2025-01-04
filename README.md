@@ -243,11 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0207-course-schedule](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [1484-linked-list-in-binary-tree](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
