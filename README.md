@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1293-three-consecutive-odds](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1293-three-consecutive-odds) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1582-design-browser-history](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1720-crawler-log-folder) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0079-word-search) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/0053-maximum-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/TharunBalaji2004/solved-leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Trie
 |  |
 | ------- |
